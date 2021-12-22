@@ -1,0 +1,25 @@
+{
+  "name": "nytdiscordbotjs",
+  "version": "1.0.0",
+  "description": "This is a discord bot that notifies you when the New York Times posts a new article.",
+  "main": "NYTDiscordBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AustenVanBrogen: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@github.com/AustenVanBrogen/NYTDiscordBotJS.git"
+  },
+  "keywords": [
+    "discord",
+    "NYT",
+    "NewYorkTimes",
+    "Bot"
+  ],
+  "author": "Austen Van Brogen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustenVanBrogen/NYTDiscordBotJS/issues"
+  },
+  "homepage": "https://github.com/AustenVanBrogen/NYTDiscordBotJS#readme"
+}
