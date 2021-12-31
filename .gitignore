@@ -106,5 +106,8 @@ dist
 # Keys file
 keys/*
 
+#Error files
+errors/*
+
 # Test file for the resposne
 NYTResponse.txt
